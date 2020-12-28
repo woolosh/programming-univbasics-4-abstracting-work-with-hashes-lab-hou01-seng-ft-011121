@@ -2,7 +2,7 @@
 
 def my_hash_creator(key, value)
   
-  new_hash = {:name => "Grace Hopper"}
+  my_hash_creator = {:name => "Grace Hopper"}
 
   return my_hash_creator
 
