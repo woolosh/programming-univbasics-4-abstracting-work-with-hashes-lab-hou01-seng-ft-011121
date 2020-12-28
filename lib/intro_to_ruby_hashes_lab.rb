@@ -6,6 +6,10 @@ def my_hash_creator(key, value)
   
 end
 
+puts my_hash_creator
+
+end
+
 
 def read_from_hash(hash, key)
 
